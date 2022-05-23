@@ -6,9 +6,9 @@ This repository contains the data and code related to the manuscript
  data file: Fiji2021cases.RData
  
  Codes to reproduce figures:
+ -computation_Rt.R
+ -computation_Rt_step.R
+ -plot1.M
+ -plot3.M
  
- figure 1: main_fig1.R
  
- figure 2: fig2.m
- 
- figure 3: compareR.R and compareR_fig3.m
